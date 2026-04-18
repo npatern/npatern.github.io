@@ -149,19 +149,18 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 
 Currently in development. I'm responsible for design, visual style, and partial implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
 
-<img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
+
+<img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
 
 **Tools:** Unity, Blender  
 **Platforms:** PC  
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
 **Playable demo:** soon  
-**Prototype (in .js):** [here](https://norbertpatern.itch.io/nymph-early-prototype?secret=bWByEyMYy3dhEZeNHOIOm5FXE)
 
-<img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
+<img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
 
 <img width="600"  src="https://github.com/user-attachments/assets/5753b117-585c-4bcb-9f82-e8fae1092d57" />
-
 
 ---
 
