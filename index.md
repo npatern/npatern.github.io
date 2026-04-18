@@ -26,14 +26,12 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 A management sim set on a traveling asteroid-inn, where players host diverse alien visitors, expand their interstellar business, and navigate a procedurally generated universe full of shifting factions and conflicts.
 
-<img width="600" src="https://github.com/user-attachments/assets/bafa9661-9f78-42f5-8219-bf94186019a1" />
-
 **Key Achievements:**
 - Created the original game concept and developed it with a small team into a working prototype and full vertical slice for the publisher  
 - Prototyped and iterated on a procedural story generation system in a custom in-house editor  
 - Coordinated design workflow across programming, art, writing, and QA
 
-<img width="600" src="https://github.com/user-attachments/assets/bb059b61-8ff5-447b-b86a-7c8ccac5d39d" />
+<img width="600" src="https://github.com/user-attachments/assets/bafa9661-9f78-42f5-8219-bf94186019a1" />
 
 **Role:** Game Director, Lead Game Designer  
 **Platforms:** PC, PS5, Xbox Series X/S, Switch  
@@ -41,6 +39,8 @@ A management sim set on a traveling asteroid-inn, where players host diverse ali
 **Studio:** Longterm Games  
 **Team size:** ~7  
 **Steam page:** [link](https://store.steampowered.com/app/2792130/StarKeeper/?l=english)  
+
+<img width="600" src="https://github.com/user-attachments/assets/bb059b61-8ff5-447b-b86a-7c8ccac5d39d" />
 
 ---
 
@@ -54,7 +54,9 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 **Key Achievements:**
 - Designed connected gameplay systems supporting level design, linking player senses, character relationships, and environmental interactions  
 - Collaborated closely with writers, artists, and programmers to align narrative tone with gameplay  
-- Authored developer diaries explaining design decisions and development insights  
+- Authored developer diaries explaining design decisions and development insights
+- 
+<img width="600" src="https://github.com/user-attachments/assets/4a0a1776-875c-40c3-966c-2c9ebdda472a" />
 
 **Role:** Lead Game Designer  
 **Platforms:** PS4, PS5, Xbox One, Xbox Series X/S, Switch  
@@ -62,8 +64,6 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 **Team size:** ~25  
 **Steam Page:** [link](https://store.steampowered.com/app/3882980/Space_Tail_Definitive_Edition/)  
 **Dev Diary:** [link](https://store.steampowered.com/news/app/1975660/view/3410940298401530228?l=english)  
-
-<img width="600" src="https://github.com/user-attachments/assets/4a0a1776-875c-40c3-966c-2c9ebdda472a" />
 
 <img width="600" src="https://github.com/user-attachments/assets/20e3176c-98b0-48d1-8393-ebd286278484" />
 
@@ -78,15 +78,15 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 
 **Key Achievements:**
 - Implemented narrative using custom in-house tools and worked with programmers to improve them  
-- Co-created storyline and non-linear dialogues, focusing on player-driven narrative and meaningful-feeling choices  
+- Co-created storyline and non-linear dialogues, focusing on player-driven narrative and meaningful-feeling choices
+- 
+<img width="600" src="https://github.com/user-attachments/assets/2b6b0027-4ef7-4b84-b0a6-551402f3b638" />
 
 **Role:** Narrative Designer, Game Designer  
 **Platforms:** PC, PS4, Xbox One, Switch  
 **Studio:** Klabater / Kraken Unleashed  
 **Team size:** ~15  
 **Trailer:** [link](https://www.youtube.com/watch?v=E5cOxM1w20g)  
-
-<img width="600" src="https://github.com/user-attachments/assets/2b6b0027-4ef7-4b84-b0a6-551402f3b638" />
 
 <img width="600" src="https://github.com/user-attachments/assets/4e0b975f-8ca7-4110-9dbe-86c2262484a1" />
 
