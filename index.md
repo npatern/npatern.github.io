@@ -93,47 +93,6 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 
 ---
 
-## Super Hero Fight Club  
-*Technical Design*
-
-<img width="600" src="https://github.com/user-attachments/assets/7c875fbf-7aed-4cc7-ba6f-849210a5ffb6" />
-
-Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-based interactions.
-
-**Key Achievements:**
-- Created a flexible 2D rig system supporting varied character proportions  
-- Integrated animations and gameplay features in Unity with artists and programmers  
-
-**Role:** Junior Game Designer, Technical Animator  
-**Platforms:** Android, iOS, PC, Switch  
-**Engine:** Unity  
-**Studio:** Incuvo  
-**Team size:** ~12  
-**Trailer:** [link](https://youtu.be/rwgSOSz9uME )  
-
----
-
-## Castle Revenge  
-*Game Design*
-
-<img width="300" src="https://github.com/user-attachments/assets/ad6ca806-e121-4a97-98c3-0a3c4b2c8370" />
-<img width="300"  src="https://github.com/user-attachments/assets/92fd2cb5-19be-47b9-b9eb-5af990dbbde6" />
-
-Mobile game combining physics-based siege mechanics with base building and combat.
-
-**Key Achievements:**
-- Tested gameplay across devices to improve performance and UX  
-- Tuned systems based on player feedback and analytics  
-
-**Role:** Junior Game Designer  
-**Platforms:** Android, iOS  
-**Engine:** Unity  
-**Studio:** Incuvo  
-**Team size:** ~12  
-**Trailer:** [link](https://youtu.be/7QW89d_N6bM)  
-
----
-
 # Other Works
 
 ## Nymphē  
@@ -196,7 +155,6 @@ Snake-style game created as a personal gift, with visuals integrated into gamepl
 <img width="200" src="https://github.com/user-attachments/assets/3bee56da-3e3c-489f-815a-3f0db61fc019" />
 <img width="200" src="https://github.com/user-attachments/assets/43884638-717e-4ef6-8b29-eee384651922" />
 
-
 ---
 
 ## Stealth-action prototype  
@@ -222,7 +180,6 @@ Unity sandbox exploring systemic gameplay.
 
 <img width="300"  src="https://github.com/user-attachments/assets/49a05940-b4ff-4a4d-9dcb-86e06cf1d2de" />
 <img width="300"  src="https://github.com/user-attachments/assets/8dd09805-542b-4879-b6a8-f6c58d3ec740" />
-
 
 ---
 
@@ -271,28 +228,6 @@ Side-view shooter where enemies are recordings of past runs.
 
 ---
 
-## Polar Longing  
-*Game Design, Technical Design, Art*
-
-<img width="600" src="https://github.com/user-attachments/assets/33c343ee-b71b-4965-9eac-4fa8c1e4478e" />
-
-Stealth game about a polar bear sneaking into human settlements.
-
-- Designed and implemented full prototype  
-- Built AI reacting to player behavior  
-- Created models and animations  
-
-**Engine:** GameMaker  
-**Team size:** Solo  
-**Trailer:** [link](https://www.youtube.com/watch?v=3gjOh4ah1kI)  
-
-<img width="600"  src="https://github.com/user-attachments/assets/ec771507-0539-4d6b-94f4-18eb4699d742" />
-
-<img width="600" src="https://github.com/user-attachments/assets/f355f9e0-4e61-4baf-aeff-9f80886e4d36" />
-
-
----
-
 ## Procedural Journey  
 *Technical Design, Narrative Design*
 
@@ -328,6 +263,27 @@ Interactive Unreal scene of a classroom environment (same classroom that the sce
 **Gameplay:** [here](https://www.youtube.com/watch?v=OtJFUng69YY&list=TLGGkDNdHLa12VowNTExMjAyNQ)  
 
 <img width="600"  src="https://github.com/user-attachments/assets/4e555cb1-755c-4510-b84d-d26bfba029a6" />
+
+---
+
+## Polar Longing  
+*Game Design, Technical Design, Art*
+
+<img width="600" src="https://github.com/user-attachments/assets/33c343ee-b71b-4965-9eac-4fa8c1e4478e" />
+
+Stealth game about a polar bear sneaking into human settlements.
+
+- Designed and implemented full prototype  
+- Built AI reacting to player behavior  
+- Created models and animations  
+
+**Engine:** GameMaker  
+**Team size:** Solo  
+**Trailer:** [link](https://www.youtube.com/watch?v=3gjOh4ah1kI)  
+
+<img width="600"  src="https://github.com/user-attachments/assets/ec771507-0539-4d6b-94f4-18eb4699d742" />
+
+<img width="600" src="https://github.com/user-attachments/assets/f355f9e0-4e61-4baf-aeff-9f80886e4d36" />
 
 ---
 
