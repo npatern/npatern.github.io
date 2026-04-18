@@ -21,6 +21,7 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ## StarKeeper  
 *Game Design, Narrative Design*
+<img width="600" src="https://github.com/user-attachments/assets/2f03d334-b286-4636-8677-02198abc1078" />
 
 A management sim set on a traveling asteroid-inn, where players host diverse alien visitors, expand their interstellar business, and navigate a procedurally generated universe full of shifting factions and conflicts.
 
@@ -34,7 +35,7 @@ A management sim set on a traveling asteroid-inn, where players host diverse ali
 **Release date:** TBA  
 **Studio:** Longterm Games  
 **Team size:** ~7  
-**Steam page:** link  
+**Steam page:** [link](https://store.steampowered.com/app/2792130/StarKeeper/?l=english)  
 
 ---
 
@@ -52,8 +53,8 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 **Platforms:** PS4, PS5, Xbox One, Xbox Series X/S, Switch  
 **Studio:** Enjoy Studio  
 **Team size:** ~25  
-**Steam Page:** link  
-**Dev Diary:** link  
+**Steam Page:** [link](https://store.steampowered.com/app/3882980/Space_Tail_Definitive_Edition/)  
+**Dev Diary:** [link](https://store.steampowered.com/news/app/1975660/view/3410940298401530228?l=english)  
 
 ---
 
@@ -70,7 +71,7 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 **Platforms:** PC, PS4, Xbox One, Switch  
 **Studio:** Klabater / Kraken Unleashed  
 **Team size:** ~15  
-**Trailer:** link  
+**Trailer:** [link](https://www.youtube.com/watch?v=E5cOxM1w20g)  
 
 ---
 
@@ -88,7 +89,7 @@ Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-base
 **Engine:** Unity  
 **Studio:** Incuvo  
 **Team size:** ~12  
-**Trailer:** https://youtu.be/rwgSOSz9uME  
+**Trailer:** [link](https://youtu.be/rwgSOSz9uME )  
 
 ---
 
@@ -106,7 +107,7 @@ Mobile game combining physics-based siege mechanics with base building and comba
 **Engine:** Unity  
 **Studio:** Incuvo  
 **Team size:** ~12  
-**Trailer:** https://youtu.be/7QW89d_N6bM  
+**Trailer:** [link](https://youtu.be/7QW89d_N6bM)  
 
 ---
 
@@ -122,14 +123,14 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 - Combine stealth and fast-paced physics-based combat  
 - Disappear after detection and strike unpredictably  
 
-Currently in development. Responsible for design, visual style, and implementation in Unity.
+Currently in development. Responsible for design, visual style, and implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
 
 **Tools:** Unity, Blender  
 **Platforms:** PC  
 **Team size:** 5  
-**GitHub:** link  
+**GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
 **Playable demo:** soon  
-**Prototype (.js):** here  
+**Prototype (early, in js):** [here](https://norbertpatern.itch.io/nymph-early-prototype?secret=bWByEyMYy3dhEZeNHOIOm5FXE)
 
 ---
 
@@ -139,9 +140,9 @@ Currently in development. Responsible for design, visual style, and implementati
 Small roguelike created with family members and expanded later.
 
 **Tools:** HTML5, JavaScript  
-**Platforms:** Browser (touch + keyboard)  
+**Platforms:** Browser (touchscreen or mouse + keyboard)  
 **Team size:** me + cousins (9 and 12)  
-**Playable demo:** link  
+**Playable demo:** [link](https://norbertpatern.itch.io/roguesub)  
 
 ---
 
@@ -153,7 +154,7 @@ Snake-style game created as a personal gift, with visuals integrated into gamepl
 **Tools:** HTML5, JavaScript  
 **Platforms:** Browser  
 **Team size:** Solo  
-**Playable demo:** link  
+**Playable demo:** [link](https://norbertpatern.itch.io/garden-snake)  
 
 ---
 
@@ -173,8 +174,8 @@ Unity sandbox exploring systemic gameplay.
 **Tools:** Unity  
 **Platforms:** PC  
 **Team size:** Solo  
-**GitHub:** link  
-**Playable demo:** link  
+**GitHub:** [link](https://github.com/npatern/Parry)  
+**Playable demo:** [link](https://github.com/npatern/Parry/releases/tag/v0.4.51)  
 
 ---
 
@@ -191,7 +192,7 @@ Custom levels built in Far Cry 5 editor.
 
 **Engine:** Dunia Engine  
 **Team size:** Solo  
-**Gameplay:** here  
+**Gameplay:** [here](https://www.youtube.com/playlist?list=PL4synGKMwAbzsPI9eKwHXWA4DtvQnuG2I)  
 
 ---
 
@@ -206,7 +207,7 @@ Side-view shooter where enemies are recordings of past runs.
 
 **Engine:** Unity  
 **Team size:** Solo (GMTK Game Jam)  
-**Playable demo:** link  
+**Playable demo:** [link](https://norbertpatern.itch.io/mirrordrones)  
 
 ---
 
@@ -221,7 +222,7 @@ Stealth game about a polar bear sneaking into human settlements.
 
 **Engine:** GameMaker  
 **Team size:** Solo  
-**Trailer:** link  
+**Trailer:** [link](https://www.youtube.com/watch?v=3gjOh4ah1kI)  
 
 ---
 
@@ -236,7 +237,7 @@ Procedural storytelling tool generating infinite animated scenes.
 
 **Engine:** Unity  
 **Team size:** Solo (Master’s thesis)  
-**Trailer:** video 1 / video 2  
+**Video:** [here](https://youtu.be/hXob8iyjK1I) and [here](https://youtu.be/alBfMBPGkpA)  
 
 ---
 
@@ -250,7 +251,7 @@ Interactive Unreal scene of a classroom environment.
 
 **Engine:** Unreal Engine 4  
 **Team size:** Solo  
-**Gameplay:** video  
+**Gameplay:** [here](https://www.youtube.com/watch?v=OtJFUng69YY&list=TLGGkDNdHLa12VowNTExMjAyNQ)  
 
 ---
 
