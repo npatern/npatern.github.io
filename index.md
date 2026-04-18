@@ -240,12 +240,12 @@ Custom levels built in Far Cry 5 editor.
 - Environmental storytelling  
 - Destructible setpiece systems  
 
+<img width="300"  src="https://github.com/user-attachments/assets/eac4b363-1fbf-453b-9091-23446812baca" />
+<img width="300" src="https://github.com/user-attachments/assets/493b58c2-c058-4b04-9c2c-56697c67798d" />
+
 **Engine:** Dunia Engine  
 **Team size:** Solo  
 **Gameplay:** [here](https://www.youtube.com/playlist?list=PL4synGKMwAbzsPI9eKwHXWA4DtvQnuG2I)  
-
-<img width="300"  src="https://github.com/user-attachments/assets/eac4b363-1fbf-453b-9091-23446812baca" />
-<img width="300" src="https://github.com/user-attachments/assets/493b58c2-c058-4b04-9c2c-56697c67798d" />
 
 <img width="300"  src="https://github.com/user-attachments/assets/0cde9459-5346-4692-8c73-106b2fcc4c37" />
 <img width="300"  src="https://github.com/user-attachments/assets/b3daeddf-4114-4eb3-8952-ad9cc22ea62f" />
