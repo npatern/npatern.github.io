@@ -55,7 +55,8 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 - Designed connected gameplay systems supporting level design, linking player senses, character relationships, and environmental interactions  
 - Collaborated closely with writers, artists, and programmers to align narrative tone with gameplay  
 - Authored developer diaries explaining design decisions and development insights
-- 
+
+
 <img width="600" src="https://github.com/user-attachments/assets/4a0a1776-875c-40c3-966c-2c9ebdda472a" />
 
 **Role:** Lead Game Designer  
