@@ -136,7 +136,7 @@ Mobile game combining physics-based siege mechanics with base building and comba
 # Other Works
 
 ## Nymphē  
-*Game Design, Technical Design, Visuals*
+*Game Design, Technical Design, Art*
 
 <img width="600" src="https://github.com/user-attachments/assets/a0c9c7ad-186e-4a64-872b-97c3c2b57476" />
 
@@ -165,7 +165,7 @@ Currently in development. I'm responsible for design, visual style, and partial 
 ---
 
 ## RogueSub  
-*Game Design, Technical Design, Visuals*
+*Game Design, Technical Design, Art*
 
 <img width="600" src="https://github.com/user-attachments/assets/00706639-b9e4-4a1c-80a7-7925cb86a248" />
 
@@ -182,7 +182,7 @@ Small roguelike created with family members and expanded later.
 ---
 
 ## Garden Snake  
-*Game Design, Technical Design, Visuals*
+*Game Design, Technical Design, Art*
 
 Snake-style game created as a personal gift, with visuals integrated into gameplay progression.
 
@@ -314,7 +314,7 @@ Procedural storytelling tool generating infinite animated scenes.
 ---
 
 ## Classroom Loop  
-*Technical Design, Visuals*
+*Technical Design, Art*
 
 <img width="600"  src="https://github.com/user-attachments/assets/3c787341-4708-433a-90f9-9ed945610109" />
 
