@@ -177,6 +177,7 @@ Unity sandbox exploring systemic gameplay.
 **Team size:** Solo  
 **GitHub:** [link](https://github.com/npatern/Parry)  
 **Playable demo:** [link](https://github.com/npatern/Parry/releases/tag/v0.4.51)  
+**Video:** [here](https://youtu.be/06HgEmSv-TU)
 
 <img width="300"  src="https://github.com/user-attachments/assets/49a05940-b4ff-4a4d-9dcb-86e06cf1d2de" />
 <img width="300"  src="https://github.com/user-attachments/assets/8dd09805-542b-4879-b6a8-f6c58d3ec740" />
