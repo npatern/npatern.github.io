@@ -114,6 +114,7 @@ Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-base
 
 ## Castle Revenge  
 *Game Design*
+
 <img width="300" src="https://github.com/user-attachments/assets/ad6ca806-e121-4a97-98c3-0a3c4b2c8370" />
 <img width="300"  src="https://github.com/user-attachments/assets/92fd2cb5-19be-47b9-b9eb-5af990dbbde6" />
 
@@ -136,6 +137,7 @@ Mobile game combining physics-based siege mechanics with base building and comba
 
 ## Nymphē  
 *Game Design, Technical Design, Visuals*
+
 <img width="600" src="https://github.com/user-attachments/assets/a0c9c7ad-186e-4a64-872b-97c3c2b57476" />
 
 Top-down stealth action game where you play as a forest nymph reclaiming a loved one taken by villagers.
@@ -145,7 +147,7 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 - Combine stealth and fast-paced physics-based combat  
 - Disappear after detection and strike unpredictably  
 
-Currently in development. Responsible for design, visual style, and implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
+Currently in development. I'm responsible for design, visual style, and partial implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
 
 <img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
 
@@ -154,7 +156,7 @@ Currently in development. Responsible for design, visual style, and implementati
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
 **Playable demo:** soon  
-**Prototype (early, in js):** [here](https://norbertpatern.itch.io/nymph-early-prototype?secret=bWByEyMYy3dhEZeNHOIOm5FXE)
+**Prototype (in .js):** [here](https://norbertpatern.itch.io/nymph-early-prototype?secret=bWByEyMYy3dhEZeNHOIOm5FXE)
 
 <img width="600"  src="https://github.com/user-attachments/assets/5753b117-585c-4bcb-9f82-e8fae1092d57" />
 
@@ -165,12 +167,17 @@ Currently in development. Responsible for design, visual style, and implementati
 ## RogueSub  
 *Game Design, Technical Design, Visuals*
 
+<img width="600" src="https://github.com/user-attachments/assets/00706639-b9e4-4a1c-80a7-7925cb86a248" />
+
 Small roguelike created with family members and expanded later.
 
 **Tools:** HTML5, JavaScript  
 **Platforms:** Browser (touchscreen or mouse + keyboard)  
 **Team size:** me + cousins (9 and 12)  
 **Playable demo:** [link](https://norbertpatern.itch.io/roguesub)  
+
+<img width="300" alt="hammer" src="https://github.com/user-attachments/assets/5cfc1b55-7ce3-4057-ba39-c381cbf93962" />
+<img width="300" alt="crab" src="https://github.com/user-attachments/assets/63341de9-81e9-41ec-a4de-000692315fa9" />
 
 ---
 
@@ -184,10 +191,17 @@ Snake-style game created as a personal gift, with visuals integrated into gamepl
 **Team size:** Solo  
 **Playable demo:** [link](https://norbertpatern.itch.io/garden-snake)  
 
+<img width="200" src="https://github.com/user-attachments/assets/2a449579-d765-48e0-b11a-0a0eadc86733" />
+<img width="200" src="https://github.com/user-attachments/assets/3bee56da-3e3c-489f-815a-3f0db61fc019" />
+<img width="200" src="https://github.com/user-attachments/assets/43884638-717e-4ef6-8b29-eee384651922" />
+
+
 ---
 
 ## Stealth-action prototype  
 *Game Design, Technical Design*
+
+<img width="600"  src="https://github.com/user-attachments/assets/a64f2481-ea17-4196-baf3-48e808a386e0" />
 
 Unity sandbox exploring systemic gameplay.
 
@@ -205,10 +219,18 @@ Unity sandbox exploring systemic gameplay.
 **GitHub:** [link](https://github.com/npatern/Parry)  
 **Playable demo:** [link](https://github.com/npatern/Parry/releases/tag/v0.4.51)  
 
+<img width="600"  src="https://github.com/user-attachments/assets/49a05940-b4ff-4a4d-9dcb-86e06cf1d2de" />
+
+<img width="600"  src="https://github.com/user-attachments/assets/8dd09805-542b-4879-b6a8-f6c58d3ec740" />
+
+
 ---
 
 ## FarCry Arcade Maps  
 *Narrative Design, Level Design*
+
+<img width="300"  src="https://github.com/user-attachments/assets/e5928f1d-35a0-4b16-92d3-fffe0520ff3c" />
+<img width="300" src="https://github.com/user-attachments/assets/9262c1cf-0db2-4856-b091-d6e654b70318" />
 
 Custom levels built in Far Cry 5 editor.
 
@@ -222,10 +244,18 @@ Custom levels built in Far Cry 5 editor.
 **Team size:** Solo  
 **Gameplay:** [here](https://www.youtube.com/playlist?list=PL4synGKMwAbzsPI9eKwHXWA4DtvQnuG2I)  
 
+<img width="300"  src="https://github.com/user-attachments/assets/eac4b363-1fbf-453b-9091-23446812baca" />
+<img width="300" src="https://github.com/user-attachments/assets/493b58c2-c058-4b04-9c2c-56697c67798d" />
+
+<img width="300"  src="https://github.com/user-attachments/assets/0cde9459-5346-4692-8c73-106b2fcc4c37" />
+<img width="300"  src="https://github.com/user-attachments/assets/b3daeddf-4114-4eb3-8952-ad9cc22ea62f" />
+
 ---
 
 ## Mirrordrones  
 *Game Design, Technical Design*
+
+<img width="600" src="https://github.com/user-attachments/assets/38078406-f758-429a-bd2a-633f32cc613c" />
 
 Side-view shooter where enemies are recordings of past runs.
 
@@ -237,10 +267,14 @@ Side-view shooter where enemies are recordings of past runs.
 **Team size:** Solo (GMTK Game Jam)  
 **Playable demo:** [link](https://norbertpatern.itch.io/mirrordrones)  
 
+<img width="600"  src="https://github.com/user-attachments/assets/ec50bd68-f6c7-4f35-be1e-716e4a0fa503" />
+
 ---
 
 ## Polar Longing  
-*Game Design, Technical Design*
+*Game Design, Technical Design, Art*
+
+<img width="600" src="https://github.com/user-attachments/assets/33c343ee-b71b-4965-9eac-4fa8c1e4478e" />
 
 Stealth game about a polar bear sneaking into human settlements.
 
@@ -252,27 +286,39 @@ Stealth game about a polar bear sneaking into human settlements.
 **Team size:** Solo  
 **Trailer:** [link](https://www.youtube.com/watch?v=3gjOh4ah1kI)  
 
+<img width="600"  src="https://github.com/user-attachments/assets/ec771507-0539-4d6b-94f4-18eb4699d742" />
+
+<img width="600" src="https://github.com/user-attachments/assets/f355f9e0-4e61-4baf-aeff-9f80886e4d36" />
+
+
 ---
 
 ## Procedural Journey  
 *Technical Design, Narrative Design*
 
+<img width="600"  src="https://github.com/user-attachments/assets/69159afc-2a07-42f1-a7d9-1a0b1b3349d8" />
+
+
 Procedural storytelling tool generating infinite animated scenes.
 
 - Character generator (body, outfits, mood, motion)  
-- Procedural environments (forest, city, interiors)  
+- Procedural environments (forest, city)  
 - AI-driven behavior + dynamic camera system  
 
 **Engine:** Unity  
 **Team size:** Solo (Master’s thesis)  
-**Video:** [here](https://youtu.be/hXob8iyjK1I) and [here](https://youtu.be/alBfMBPGkpA)  
+**Video:** [here](https://youtu.be/alBfMBPGkpA)  
+
+<img width="600"  src="https://github.com/user-attachments/assets/30ac2a82-3dec-4165-8159-fa4140a6c1e4" />
 
 ---
 
 ## Classroom Loop  
 *Technical Design, Visuals*
 
-Interactive Unreal scene of a classroom environment.
+<img width="600"  src="https://github.com/user-attachments/assets/3c787341-4708-433a-90f9-9ed945610109" />
+
+Interactive Unreal scene of a classroom environment (same classroom that the scene was made in).
 
 - Modeled and textured environment from real references  
 - Implemented physics interaction and scene setup  
@@ -280,6 +326,8 @@ Interactive Unreal scene of a classroom environment.
 **Engine:** Unreal Engine 4  
 **Team size:** Solo  
 **Gameplay:** [here](https://www.youtube.com/watch?v=OtJFUng69YY&list=TLGGkDNdHLa12VowNTExMjAyNQ)  
+
+<img width="600"  src="https://github.com/user-attachments/assets/4e555cb1-755c-4510-b84d-d26bfba029a6" />
 
 ---
 
