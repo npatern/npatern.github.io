@@ -107,7 +107,7 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 - Combine stealth and fast-paced physics-based combat  
 - Disappear after detection and strike unpredictably  
 
-Currently in development. I'm responsible for design, visual style, and partial implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
+Currently in development. I'm responsible for design, visual style, and partial implementation in Unity. Example can be seen [here](https://youtu.be/Ly1NOgUi3-4).
 
 
 <img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
