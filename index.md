@@ -21,14 +21,19 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ## StarKeeper  
 *Game Design, Narrative Design*
+
 <img width="600" src="https://github.com/user-attachments/assets/2f03d334-b286-4636-8677-02198abc1078" />
 
 A management sim set on a traveling asteroid-inn, where players host diverse alien visitors, expand their interstellar business, and navigate a procedurally generated universe full of shifting factions and conflicts.
 
+<img width="600" src="https://github.com/user-attachments/assets/bafa9661-9f78-42f5-8219-bf94186019a1" />
+
 **Key Achievements:**
 - Created the original game concept and developed it with a small team into a working prototype and full vertical slice for the publisher  
 - Prototyped and iterated on a procedural story generation system in a custom in-house editor  
-- Coordinated design workflow across programming, art, writing, and QA  
+- Coordinated design workflow across programming, art, writing, and QA
+
+<img width="600" src="https://github.com/user-attachments/assets/bb059b61-8ff5-447b-b86a-7c8ccac5d39d" />
 
 **Role:** Game Director, Lead Game Designer  
 **Platforms:** PC, PS5, Xbox Series X/S, Switch  
@@ -41,6 +46,8 @@ A management sim set on a traveling asteroid-inn, where players host diverse ali
 
 ## Space Tail  
 *Game Design, Level Design*
+
+<img width="600" src="https://github.com/user-attachments/assets/cb550374-492a-446e-80bb-ae3dba3ff78b" />
 
 A story-driven 2.5D adventure platformer following a dog exploring distant worlds and discovering the meaning of friendship and empathy beyond Earth.
 
@@ -56,10 +63,16 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 **Steam Page:** [link](https://store.steampowered.com/app/3882980/Space_Tail_Definitive_Edition/)  
 **Dev Diary:** [link](https://store.steampowered.com/news/app/1975660/view/3410940298401530228?l=english)  
 
+<img width="600" src="https://github.com/user-attachments/assets/4a0a1776-875c-40c3-966c-2c9ebdda472a" />
+
+<img width="600" src="https://github.com/user-attachments/assets/20e3176c-98b0-48d1-8393-ebd286278484" />
+
 ---
 
 ## Crossroads Inn  
 *Game Design, Narrative Design*
+
+<img width="600" src="https://github.com/user-attachments/assets/f3693c87-2691-4e89-8e84-7ecb4e90ff8d" />
 
 An economic simulation and tavern management game set in a rich medieval fantasy world with branching narrative.
 
@@ -73,10 +86,16 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 **Team size:** ~15  
 **Trailer:** [link](https://www.youtube.com/watch?v=E5cOxM1w20g)  
 
+<img width="600" src="https://github.com/user-attachments/assets/2b6b0027-4ef7-4b84-b0a6-551402f3b638" />
+
+<img width="600" src="https://github.com/user-attachments/assets/4e0b975f-8ca7-4110-9dbe-86c2262484a1" />
+
 ---
 
 ## Super Hero Fight Club  
 *Technical Design*
+
+<img width="600" src="https://github.com/user-attachments/assets/7c875fbf-7aed-4cc7-ba6f-849210a5ffb6" />
 
 Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-based interactions.
 
@@ -95,6 +114,8 @@ Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-base
 
 ## Castle Revenge  
 *Game Design*
+<img width="300" src="https://github.com/user-attachments/assets/ad6ca806-e121-4a97-98c3-0a3c4b2c8370" />
+<img width="300"  src="https://github.com/user-attachments/assets/92fd2cb5-19be-47b9-b9eb-5af990dbbde6" />
 
 Mobile game combining physics-based siege mechanics with base building and combat.
 
@@ -115,6 +136,7 @@ Mobile game combining physics-based siege mechanics with base building and comba
 
 ## Nymphē  
 *Game Design, Technical Design, Visuals*
+<img width="600" src="https://github.com/user-attachments/assets/a0c9c7ad-186e-4a64-872b-97c3c2b57476" />
 
 Top-down stealth action game where you play as a forest nymph reclaiming a loved one taken by villagers.
 
@@ -125,12 +147,18 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 
 Currently in development. Responsible for design, visual style, and implementation in Unity. Example can be seen [here](https://youtu.be/_NQlGcTbvUk).
 
+<img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
+
 **Tools:** Unity, Blender  
 **Platforms:** PC  
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
 **Playable demo:** soon  
 **Prototype (early, in js):** [here](https://norbertpatern.itch.io/nymph-early-prototype?secret=bWByEyMYy3dhEZeNHOIOm5FXE)
+
+<img width="600"  src="https://github.com/user-attachments/assets/5753b117-585c-4bcb-9f82-e8fae1092d57" />
+
+<img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
 
 ---
 
