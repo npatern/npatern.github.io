@@ -16,7 +16,7 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ---
 
-# Commercial Projects and Shipped Titles
+# Commercial Projects
 
 ## StarKeeper  
 *Game Design, Narrative Design*
