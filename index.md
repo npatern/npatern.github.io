@@ -289,7 +289,7 @@ Stealth game about a polar bear sneaking into human settlements.
 
 # Contact
 
-**Hit me up — let’s create something together!**  
+**Hit me up - let’s create something together!**  
 
 kacperkapela@gmail.com | [github.com/npatern](https://github.com/npatern) | [norbertpatern.itch.io](https://norbertpatern.itch.io/) | <a href="Kacper Kapela CV GAMEDEV.pdf" target="_blank">
   CV
