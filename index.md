@@ -1,5 +1,7 @@
-# Kacper Kapela  
-kacperkapela@gmail.com
+# Kacper Kapela Portfolio
+kacperkapela@gmail.com <a href="/assets/CV_Kacper_Kapela.pdf" target="_blank">
+  download CV
+</a>
 
 Game Designer / Game Director with 8+ years experience in systemic gameplay, stealth-action systems, and narrative-driven design.  
 Strong focus on Unity prototyping, AI systems, and emergent gameplay.
