@@ -1,7 +1,4 @@
 # Kacper Kapela Portfolio
-kacperkapela@gmail.com <a href="/CV_Kacper_Kapela.pdf" target="_blank">
-  download CV
-</a>
 
 Game Designer / Game Director with 8+ years experience in systemic gameplay, stealth-action systems, and narrative-driven design.  
 Strong focus on Unity prototyping, AI systems, and emergent gameplay.
@@ -294,4 +291,6 @@ Stealth game about a polar bear sneaking into human settlements.
 
 **Hit me up — let’s create something together!**  
 
-kacperkapela@gmail.com | [github.com/npatern](https://github.com/npatern) | [norbertpatern.itch.io](https://norbertpatern.itch.io/)
+kacperkapela@gmail.com | [github.com/npatern](https://github.com/npatern) | [norbertpatern.itch.io](https://norbertpatern.itch.io/) | <a href="/CV_Kacper_Kapela.pdf" target="_blank">
+  CV
+</a>
