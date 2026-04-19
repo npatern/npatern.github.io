@@ -1,5 +1,5 @@
 # Kacper Kapela Portfolio
-kacperkapela@gmail.com <a href="/assets/CV_Kacper_Kapela.pdf" target="_blank">
+kacperkapela@gmail.com <a href="/CV_Kacper_Kapela.pdf" target="_blank">
   download CV
 </a>
 
