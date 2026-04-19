@@ -16,7 +16,7 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ---
 
-# Commercial Projects
+# Commercial Projects and Shipped Titles
 
 ## StarKeeper  
 *Game Design, Narrative Design*
@@ -91,6 +91,48 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 <img width="600" src="https://github.com/user-attachments/assets/4e0b975f-8ca7-4110-9dbe-86c2262484a1" />
 
 ---
+
+## Super Hero Fight Club  
+*Technical Design, Animation*
+
+<img width="600" src="https://github.com/user-attachments/assets/7c875fbf-7aed-4cc7-ba6f-849210a5ffb6" />
+
+Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-based interactions.
+
+**Key Achievements:**
+- Created a flexible 2D rig system supporting varied character proportions  
+- Integrated animations and gameplay features in Unity with artists and programmers  
+
+**Role:** Junior Game Designer, Technical Animator  
+**Platforms:** Android, iOS, PC, Switch  
+**Engine:** Unity  
+**Studio:** Incuvo  
+**Team size:** ~12  
+**Trailer:** [link](https://youtu.be/rwgSOSz9uME )  
+
+---
+
+## Castle Revenge  
+*Game Design*
+
+<img width="300" src="https://github.com/user-attachments/assets/ad6ca806-e121-4a97-98c3-0a3c4b2c8370" />
+<img width="300"  src="https://github.com/user-attachments/assets/92fd2cb5-19be-47b9-b9eb-5af990dbbde6" />
+
+Mobile game combining physics-based siege mechanics with base building and combat.
+
+**Key Achievements:**
+- Tested gameplay across devices to improve performance and UX  
+- Tuned systems based on player feedback and analytics  
+
+**Role:** Junior Game Designer  
+**Platforms:** Android, iOS  
+**Engine:** Unity  
+**Studio:** Incuvo  
+**Team size:** ~12  
+**Trailer:** [link](https://youtu.be/7QW89d_N6bM)  
+
+---
+
 
 # Other Works
 
@@ -284,49 +326,6 @@ Stealth game about a polar bear sneaking into human settlements.
 <img width="600"  src="https://github.com/user-attachments/assets/ec771507-0539-4d6b-94f4-18eb4699d742" />
 
 <img width="600" src="https://github.com/user-attachments/assets/f355f9e0-4e61-4baf-aeff-9f80886e4d36" />
-
----
-
-# Early professional experience
-
-## Super Hero Fight Club  
-*Technical Design*
-
-<img width="600" src="https://github.com/user-attachments/assets/7c875fbf-7aed-4cc7-ba6f-849210a5ffb6" />
-
-Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-based interactions.
-
-**Key Achievements:**
-- Created a flexible 2D rig system supporting varied character proportions  
-- Integrated animations and gameplay features in Unity with artists and programmers  
-
-**Role:** Junior Game Designer, Technical Animator  
-**Platforms:** Android, iOS, PC, Switch  
-**Engine:** Unity  
-**Studio:** Incuvo  
-**Team size:** ~12  
-**Trailer:** [link](https://youtu.be/rwgSOSz9uME )  
-
----
-
-## Castle Revenge  
-*Game Design*
-
-<img width="300" src="https://github.com/user-attachments/assets/ad6ca806-e121-4a97-98c3-0a3c4b2c8370" />
-<img width="300"  src="https://github.com/user-attachments/assets/92fd2cb5-19be-47b9-b9eb-5af990dbbde6" />
-
-Mobile game combining physics-based siege mechanics with base building and combat.
-
-**Key Achievements:**
-- Tested gameplay across devices to improve performance and UX  
-- Tuned systems based on player feedback and analytics  
-
-**Role:** Junior Game Designer  
-**Platforms:** Android, iOS  
-**Engine:** Unity  
-**Studio:** Incuvo  
-**Team size:** ~12  
-**Trailer:** [link](https://youtu.be/7QW89d_N6bM)  
 
 ---
 
