@@ -1,4 +1,4 @@
-# Kacper Kapela <a href="Kacper Kapela CV GAMEDEV.pdf" target="_blank"> CV </a>
+# Kacper Kapela Portfolio
 
 Game Designer / Game Director with 8+ years experience in systemic gameplay, stealth-action systems, and narrative-driven design.  
 Strong focus on Unity prototyping, AI systems, and emergent gameplay.
