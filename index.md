@@ -157,7 +157,7 @@ Currently in development. I'm responsible for design, visual style, and partial 
 **Platforms:** PC  
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
-**Playable demo:** soon  
+**Playable demo:** [here](https://kawabart.itch.io/nymph-the-hairy-tale)
 
 <img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
 
