@@ -7,12 +7,12 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ## Core Skills
 
-- Systems & Gameplay Design  
-- AI Design (stealth, perception, behavior systems)  
 - Unity (C#, prototyping, tool creation)  
+- Systems & Gameplay Design  
+- Gameplay AI (stealth, perception, behavior systems)  
 - Level Design (stealth, traversal, nonlinear spaces)  
 - Narrative systems & branching dialogue  
-- Rapid prototyping (game jams, solo builds)
+- Rapid prototyping
 
 ---
 
