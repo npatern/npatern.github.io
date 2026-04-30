@@ -1,6 +1,6 @@
 # Kacper Kapela Portfolio
 
-Game Designer / Game Developer with 8+ years experience in systemic gameplay, stealth-action systems, and narrative-driven design.  
+Game Designer / Game Developer with 8+ years experience in systemic gameplay, management sims, stealth-action systems, and narrative-driven design.  
 Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 
 ---
