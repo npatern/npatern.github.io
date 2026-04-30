@@ -19,7 +19,7 @@ Strong focus on Unity prototyping, AI systems, and emergent gameplay.
 # Commercial Projects
 
 ## StarKeeper  
-*Game Design, Narrative Design*
+*Game Design, Game Development, Narrative Design*
 
 <img width="600" src="https://github.com/user-attachments/assets/2f03d334-b286-4636-8677-02198abc1078" />
 
@@ -32,6 +32,7 @@ A management sim set on a traveling asteroid-inn, where players host diverse ali
 
 <img width="600" src="https://github.com/user-attachments/assets/bafa9661-9f78-42f5-8219-bf94186019a1" />
 
+**Engine:** Unity
 **Role:** Game Director, Lead Game Designer  
 **Platforms:** PC, PS5, Xbox Series X/S, Switch  
 **Release date:** TBA  
@@ -58,6 +59,7 @@ A story-driven 2.5D adventure platformer following a dog exploring distant world
 
 <img width="600" src="https://github.com/user-attachments/assets/4a0a1776-875c-40c3-966c-2c9ebdda472a" />
 
+**Engine:** Unity
 **Role:** Lead Game Designer  
 **Platforms:** PS4, PS5, Xbox One, Xbox Series X/S, Switch  
 **Studio:** Enjoy Studio  
@@ -82,6 +84,7 @@ An economic simulation and tavern management game set in a rich medieval fantasy
 
 <img width="600" src="https://github.com/user-attachments/assets/2b6b0027-4ef7-4b84-b0a6-551402f3b638" />
 
+**Engine:** Esenthel
 **Role:** Narrative Designer, Game Designer  
 **Platforms:** PC, PS4, Xbox One, Switch  
 **Studio:** Klabater / Kraken Unleashed  
@@ -103,9 +106,9 @@ Fast-paced 2D brawler featuring diverse heroes, dynamic combat, and physics-base
 - Created a flexible 2D rig system supporting varied character proportions  
 - Integrated animations and gameplay features in Unity with artists and programmers  
 
+**Engine:** Unity
 **Role:** Junior Game Designer, Technical Animator  
 **Platforms:** Android, iOS, PC, Switch  
-**Engine:** Unity  
 **Studio:** Incuvo  
 **Team size:** ~12  
 **Trailer:** [link](https://youtu.be/rwgSOSz9uME )  
@@ -124,9 +127,9 @@ Mobile game combining physics-based siege mechanics with base building and comba
 - Tested gameplay across devices to improve performance and UX  
 - Tuned systems based on player feedback and analytics  
 
+**Engine:** Unity
 **Role:** Junior Game Designer  
-**Platforms:** Android, iOS  
-**Engine:** Unity  
+**Platforms:** Android, iOS   
 **Studio:** Incuvo  
 **Team size:** ~12  
 **Trailer:** [link](https://youtu.be/7QW89d_N6bM)  
@@ -153,7 +156,7 @@ Currently in development. I'm responsible for design, visual style, and partial 
 
 <img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
 
-**Tools:** Unity, Blender  
+**Engine:** Unity 
 **Platforms:** PC  
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
@@ -213,7 +216,7 @@ Unity sandbox exploring systemic gameplay.
 - Elemental interactions (fire, poison, electricity)  
 - Systems interplay (e.g. water + electricity)
 
-**Tools:** Unity  
+**Engine:** Unity
 **Platforms:** PC  
 **Team size:** Solo  
 **GitHub:** [link](https://github.com/npatern/Parry)  
