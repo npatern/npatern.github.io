@@ -151,7 +151,7 @@ Top-down stealth action game where you play as a forest nymph reclaiming a loved
 - Combine stealth and fast-paced physics-based combat  
 - Disappear after detection and strike unpredictably  
 
-Currently in development. I'm responsible for design, visual style, and partial implementation in Unity. Example can be seen [here](https://youtu.be/0fPLewHqz1E?is=0gsF4ZEgglQaEuWD)
+Currently in development. I'm responsible for design, visual style, and partial implementation in Unity.
 
 
 <img width="600" src="https://github.com/user-attachments/assets/87c13803-56e7-4954-aebd-ccf4e4ca6393" />
@@ -161,6 +161,7 @@ Currently in development. I'm responsible for design, visual style, and partial 
 **Team size:** 5  
 **GitHub:** [link](https://github.com/kawabart/Wodnik/wiki)  
 **Playable demo:** [here](https://kawabart.itch.io/nymph-the-hairy-tale)
+**Video:** [here](https://youtu.be/cUPMoFr9Dto?is=nPWYvoRUejaQtgQC) 
 
 <img width="600" src="https://github.com/user-attachments/assets/70206088-2e33-4e9f-b96c-5871411b4e36" />
 
@@ -179,9 +180,6 @@ Small roguelike created with family members and expanded later.
 **Platforms:** Browser (touchscreen or mouse + keyboard)  
 **Team size:** me + cousins (9 and 12)  
 **Playable demo:** [link](https://norbertpatern.itch.io/roguesub)  
-
-<img width="300" alt="hammer" src="https://github.com/user-attachments/assets/5cfc1b55-7ce3-4057-ba39-c381cbf93962" />
-<img width="300" alt="crab" src="https://github.com/user-attachments/assets/63341de9-81e9-41ec-a4de-000692315fa9" />
 
 ---
 
